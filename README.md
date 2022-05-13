@@ -4,7 +4,7 @@ Aprendendo a utilizar temas com Bootstrap 5
 ![Tela](https://github.com/laraoberderfer/theme-bootstrap5/blob/main/capa.png)
 
 -------------------------------------------------------------------------------------------------
-####R eferências
+#### Referências
 [W3Schools](https://www.w3schools.com/bootstrap/bootstrap_ver.asp)
 
 -------------------------------------------------------------------------------------------------
